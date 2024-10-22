@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/297704c6901f07f0c8ef4838eb720a7d1f2beb26)
+2. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/ed176452c9283f812d3ca797872a53d5ccb8d069)
+3. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/489144698c618fb1ae80e4959ced5381d91bca77)
+4. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/ab934c87b1dfd62236967ece9e7120945899a9c3)
+5. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/0d9010141495bf2f6d3cbe0f3c74c538e8b78f28)
+6. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/c958acc0f47faca079bde0711c5ede3faa2bbede)
+7. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/ad3bc7a0ad73a1ef1467a522def3d673e111ea33)
+8. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/69edc49080e0cef852ab2c85bfabb97668e6a6e1)
+9. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/1e915a5a6dd4928ec73983f9c38dc01162fcf17c)
+10. 📝 Committed to [BenWuuu/activity-log](https://github.com/BenWuuu/activity-log/commit/c4b148fd07f2d3cadec7e28082d23fcbc150da83)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
